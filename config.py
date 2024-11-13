@@ -1,15 +1,15 @@
 TOKEN = "7646173236:AAErOkmU4sPBg1qe9-rsvxto33Z5B_8EJRs" # Токен бота
-CHANNEL_ID = -1002469070319 # ID канала со ставками
+CHANNEL_ID = -1002304328485 # ID канала со ставками
 ADMINS = [7024382588] # ID админов
 BET_URL = "https://t.me/send?start=IVUHyST8MJqb" # Ссылка на счет
 CRYPTOPAY_TOKEN = "292406:AADUzPT5ml7dZtF7UBuOnnoi46du2A4UqOm" # Тут CryptoPay токен
 WIN_IMAGE = "win.jpg" # Название файла с картинкой выигрыша
 LOSE_IMAGE = "lose.jpg" # Название файла с картинкой проигрыша
-LOGS_ID =-1002469070319 # ID канала с оплатами
+LOGS_ID = -1002469070319 # ID канала с оплатами
 
 RULES_LINK = "https://t.me/+TCxjr8zALuMxYTIy" # Ссылка на канал с правиламиW
 NEWS_LINK = "https://t.me/+Tr9fc18HIfdhOWYy" # Ссылка на новостной канал
 OWNER_LINK = "https://t.me/MARS_Sup" # Ссылка на владельца/поддержку
 PEREHOD_LINK = "https://t.me/+FSdg8euMsjNjMWYy" # Ссылка на переходник
-BETS_LINK = "https://t.me/+2mjroqkFX6I1ZTdi" # Ссылка на канал ставок
-CASINO_NAME = "CryptoCasino Mars" # Название казино
+BETS_LINK = "https://t.me/+3_SpFm1XV5RhNWE6" # Ссылка на канал ставок
+CASINO_NAME = "CasinoMars" # Название казино
